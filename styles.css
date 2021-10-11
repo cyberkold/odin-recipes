@@ -1,0 +1,23 @@
+h1 {
+    font-family:  Copperplate, Papyrus, Garamond, Helvetica;
+    text-align: center;
+    text-shadow: 1px 1px rgba(83, 57, 9, 0.774);
+    color: rgb(117, 82, 17);
+}
+
+a {
+    text-align: left;
+    font-family: Papyrus, Helvetica;
+    color: rgba(83, 60, 19, 0.774);
+    font-weight:bold;
+    text-shadow: 1px 1px rgba(83, 57, 9, 0.774);
+}
+
+a:hover {
+    background-color: rgb(212, 198, 170);
+}
+
+body {
+    background: url(https://wallpaperaccess.com/full/772592.jpg);
+    background-size:cover;
+}

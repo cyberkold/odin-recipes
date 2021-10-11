@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-family: "Apple Chancery";
+    color: rgb(180, 51, 0);
+}
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url(https://store-images.s-microsoft.com/image/apps.16809.14540502471212802.ea31483c-2d94-48bd-8e67-9e8bc4e31611.66133686-6690-4307-b647-60bef380046c?mode=scale&q=90&h=1080&w=1920);
+}
+
+h6 {
+    text-align: center;
+    background-color:rgba(180, 51, 0, 0.23);
+    color: white;
+}
+
+h4 {
+
+    text-align: center;
+    font-family: "Apple Chancery";
+    background-color:rgba(180, 51, 0, 0.23);
+    color: white;
+}
+
+li {
+
+    text-align: center;
+    font-family: "Apple Chancery";
+    background-color:rgba(180, 51, 0, 0.23);
+    color: white;
+
+}

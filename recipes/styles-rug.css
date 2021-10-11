@@ -1,0 +1,15 @@
+div {
+    background: rgba(0, 120, 0, 0.3);
+}
+
+.heading {
+    color: #144764;
+}
+
+ul, ol {
+    font-family: "Brush Script MT";
+}
+
+#special {
+    font-family: "Times New Roman";
+}
